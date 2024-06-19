@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fredy-AP/reloj-react.git/static/css/main.f855e6bc.css",
-    "main.js": "/Fredy-AP/reloj-react.git/static/js/main.32385548.js",
-    "static/js/453.57d2de00.chunk.js": "/Fredy-AP/reloj-react.git/static/js/453.57d2de00.chunk.js",
-    "index.html": "/Fredy-AP/reloj-react.git/index.html",
-    "main.f855e6bc.css.map": "/Fredy-AP/reloj-react.git/static/css/main.f855e6bc.css.map",
-    "main.32385548.js.map": "/Fredy-AP/reloj-react.git/static/js/main.32385548.js.map",
-    "453.57d2de00.chunk.js.map": "/Fredy-AP/reloj-react.git/static/js/453.57d2de00.chunk.js.map"
+    "main.css": "/reloj-react/static/css/main.f855e6bc.css",
+    "main.js": "/reloj-react/static/js/main.4a3dd4f3.js",
+    "static/js/453.57d2de00.chunk.js": "/reloj-react/static/js/453.57d2de00.chunk.js",
+    "index.html": "/reloj-react/index.html",
+    "main.f855e6bc.css.map": "/reloj-react/static/css/main.f855e6bc.css.map",
+    "main.4a3dd4f3.js.map": "/reloj-react/static/js/main.4a3dd4f3.js.map",
+    "453.57d2de00.chunk.js.map": "/reloj-react/static/js/453.57d2de00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.32385548.js"
+    "static/js/main.4a3dd4f3.js"
   ]
 }
