@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reloj-react/static/css/main.3a586388.css",
-    "main.js": "/reloj-react/static/js/main.1146cdd9.js",
+    "main.js": "/reloj-react/static/js/main.d5a45ec8.js",
     "static/js/488.32d06f15.chunk.js": "/reloj-react/static/js/488.32d06f15.chunk.js",
     "index.html": "/reloj-react/index.html",
     "main.3a586388.css.map": "/reloj-react/static/css/main.3a586388.css.map",
-    "main.1146cdd9.js.map": "/reloj-react/static/js/main.1146cdd9.js.map",
+    "main.d5a45ec8.js.map": "/reloj-react/static/js/main.d5a45ec8.js.map",
     "488.32d06f15.chunk.js.map": "/reloj-react/static/js/488.32d06f15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a586388.css",
-    "static/js/main.1146cdd9.js"
+    "static/js/main.d5a45ec8.js"
   ]
 }
